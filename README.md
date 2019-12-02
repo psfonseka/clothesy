@@ -13,5 +13,6 @@ First install dependencies with npm install. Then use npm run build-prod to crea
 
 ## Credits
 
-Daniel Sha (product overview)
-Kelly Revenaugh (questions and answers)
+[Daniel Sha](https://github.com/dan-sha) (product overview)
+
+[Kelly Revenaugh](https://github.com/yllek) (questions and answers)

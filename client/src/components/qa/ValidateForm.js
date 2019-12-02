@@ -22,4 +22,4 @@ export const validate = (form, component, categories) => {
   return Object.keys(errors).length ? errors : false;
 };
 
-ex;
+//ex;

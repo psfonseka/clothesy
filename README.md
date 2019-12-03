@@ -3,9 +3,9 @@
 Clothesy is a project that involves creating the front-end for a clothes online shopping store with the use of an external API. It was created by a group of three through agile development and with the use of react and redux for saving state to a common and easily accessible store. I was personally responsible for the reviews section/widget. 
 
 
-![Alt Text](https://im3.ezgif.com/tmp/ezgif-3-0743810fdf5a.gif)
+![Alt Text](https://gfycat.com/opulentimpisherin)
 
-![Alt Text](https://im3.ezgif.com/tmp/ezgif-3-04481d0d18aa.gif)
+![Alt Text](https://gfycat.com/silkycrazygoitered)
 
 ## Building and running on localhost
 
